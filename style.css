@@ -114,6 +114,7 @@ input:focus + span, input:not(:placeholder-shown) + span {
     text-align: center;
     background-color: white;
     outline-color: rgb(1, 85, 189);
+    color: rgb(1, 85, 189);
   }
   
 a{
