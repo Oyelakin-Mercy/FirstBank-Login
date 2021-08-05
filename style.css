@@ -86,7 +86,7 @@ span{
     margin-top: 34px;
     margin-left: 9em;
     font-size: 16px;
-    color: #4e4e4e;
+    color: rgb(1, 85, 189);
 }
 .password{
     pointer-events: none;
@@ -96,7 +96,7 @@ span{
     margin-top: 6.7em;
     margin-left: 145px;
     font-size: 16px;
-    color: #4e4e4e;
+    color: rgb(1, 85, 189);
 }
 .token{
     pointer-events: none;
@@ -106,7 +106,7 @@ span{
     margin-top: 13.3em;
     margin-left: 145px;
     font-size: 16px;
-    color: #4e4e4e;
+    color: rgb(1, 85, 189);
 }
 input:focus + span, input:not(:placeholder-shown) + span {
     transform: scale(0.75) translateY(-142%) translateX(-15px);
@@ -114,7 +114,7 @@ input:focus + span, input:not(:placeholder-shown) + span {
     text-align: center;
     background-color: white;
     outline-color: rgb(1, 85, 189);
-    color: rgb(1, 85, 189);
+    
   }
   
 a{
